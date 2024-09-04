@@ -26,9 +26,10 @@ Data yang diberikan terpisah satu sama lain dengan kolom identifier yang sama ag
 
 Link Data: https://drive.google.com/file/d/1LpA3l60tZLX8pTcZAQtc_XDiGQOr1KjR/view?usp=drive_link
 
-## 4. Flowchart
+## 4. Entity Relational Diagram
+![ERD](https://github.com/user-attachments/assets/d5f50336-0ed8-4631-8f28-e376ea3e231e)
 
-
+**Note: PK (Primary Key), FK (Foreign Key)**
 ## 5. Analisis
 - Secara spasial, seller dan konsumen sebagian besar terkonsentrasi di negara bagian SP (Sao Paulo) dan RJ (Rio de Janeiro)
 - Status pengiriman terbanyak adalah delivered (97.89%) dengan konsumennya berada di negara bagian SP (Sao Paulo)
@@ -44,6 +45,7 @@ Link Data: https://drive.google.com/file/d/1LpA3l60tZLX8pTcZAQtc_XDiGQOr1KjR/vie
 - Analisis menggunakan K-Means Clustering pada segmentasi konsumen
 - Menerapkan model deep learning untuk prediksi review score
 
+**Author** Copyright (c) *2024 Muhammad Chavez Assad Patriot*
 
 
 
