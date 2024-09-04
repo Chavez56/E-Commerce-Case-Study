@@ -45,6 +45,9 @@ Link Data: https://drive.google.com/file/d/1LpA3l60tZLX8pTcZAQtc_XDiGQOr1KjR/vie
 - Analisis menggunakan K-Means Clustering pada segmentasi konsumen
 - Menerapkan model deep learning untuk prediksi review score
 
+## 7. Referensi
+https://www.blastanalytics.com/blog/rfm-analysis-boosts-sales diakses pada tanggal 1 September 2024
+
 **Author** Copyright (c) *2024 Muhammad Chavez Assad Patriot*
 
 
