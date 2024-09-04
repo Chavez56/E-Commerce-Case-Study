@@ -17,7 +17,7 @@ Data yang diberikan terpisah satu sama lain dengan kolom identifier yang sama ag
 - Data Products Translation
 - Data Sellers
 
-Link Data: https://drive.google.com/file/d/1U55Axq3zL479fxCPosIEJvlS9AqISeS-/view?usp=sharing
+Link Data: https://drive.google.com/file/d/1LpA3l60tZLX8pTcZAQtc_XDiGQOr1KjR/view?usp=drive_link
 
 ## 4. Flowchart
 
